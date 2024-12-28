@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/laravel": "^10.3",
+        "filament/filament": "^3.2"
+    }
+}
